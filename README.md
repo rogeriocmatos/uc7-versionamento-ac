@@ -2,4 +2,4 @@
 
 Versionamento
 
-Realizando uma Alteração no README.md
+Essa UC trata de Versionamento e da ferramenta GitHub e Git que é uma ferramenta gratuita que facilita essa atividade. 
